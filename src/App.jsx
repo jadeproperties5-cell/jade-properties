@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef, useLayoutEffect, useCallback } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import { UploadCloud, CheckCircle, Star, X, Check, MapPin, MousePointer2, Activity } from 'lucide-react';
+import { Star, X, Check, MapPin, MousePointer2, Activity } from 'lucide-react';
 
 gsap.registerPlugin(ScrollTrigger);
 
